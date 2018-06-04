@@ -1,0 +1,21 @@
+Get all the employee details from employee table	Select * from EMP
+get all the employee details from employee table whose age is greater than 25	Select * from EMP where AGE > 25
+Get the Employees Earned Leave Balance from Employee Leaves Table	Select * from Emp Leaves 
+Update 2 Earned Leaves Every Month for all Active Employees	Insert table Emp Leaves with  '02'
+Update Marital Status of Employee	Modify table EMP with MSTAT
+Update Mobile Number in Employee Table	Modify table EMP with MOBILE_NUM
+Read Employee Living Country / State	Read Table EMP where Country (LAND1) <> ' '
+Get All the Purchase orders number from Table EKKO	Select * from EKKO into table
+Get the Company code for all Employees from Table PA0001	Select * from PA0001
+Get the Cost Center from table CSKS based on Company Code 	Select * from CSKS where BUKRS <> ' '
+Get the Vendor Account Numbers from Table LIFNR 	Select * from LIFNR 
+Get the Material Numbers from table MATNR 	Select * from MATNR 
+Get the Employee details who are hourly Paid	Select * from EMP where PERSG = '01'
+Update Employee table with Bonus for all hourly Employees	Update table EMP with WA_bonus 
+Get all the Sales order data from table VBAP	Select * from VBAP
+Read Employee Email ID 	Read Table EMP were email_ID <> ' ' 
+Remove Special Characters in Email ID of an Employee	Replace '@-!$%&' in WA_EMP with Space 
+Replace Leading Zeros with Space in Employee Number	Replace all occurance of '0' in in WA_EMP with Space
+Translate a String  to Upper Case	Translate 'String' to UPPER CASE
+Translate a String  to Lower Case	Translate 'String' to LOWER CASE
+Delete Employee details from Appraisal table if Employee Joining date is Less than 1st of June 2017	Delete from APPRAISAL_TABLE with WA_TAB Where EMP DOJ < 01072017

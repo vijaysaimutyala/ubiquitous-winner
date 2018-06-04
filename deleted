@@ -1,0 +1,1 @@
+Delete Employee details from Appraisal table if Employee Joining date is Less than 1st of June 2017	Delete from APPRAISAL_TABLE with WA_TAB Where EMP DOJ < 01072017

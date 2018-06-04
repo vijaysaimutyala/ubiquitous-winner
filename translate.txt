@@ -1,0 +1,34 @@
+Select * from employee	Get all the employee details from employee table
+Select * from EmployeeLeaves	Get all the leave details from EmployeeLeaves
+Select * from EKKO	Get All the Purchase orders number from Table EKKO
+Select * from PA0001	Get all details from PA0001 Table
+Select * from VBAP	Get all the Sales order data from table VBAP
+Select * from LIKP	Get all deliveries from table LIKP
+Select * from VBRK	Get all invoices from table VBRK
+Select * from MARA	Get all material details from table MARA
+Select * from EKPO	Get all Purchasing Document Item from EKPO table
+Select * from MARC	Get all Plant Data for Material from MARC Table
+Select * from KNA1	Get all General Data in Customer Master from KNA1 Table
+select * from MAKT	Get all Material Descriptions from table MAKT
+Select * from EmployeeLeaves	Get all the leave details from EmployeeLeaves 
+Select * from EKKO	Get All the Purchase orders number from Table EKKO
+Select * from PA0001	Get all details from PA0001 Table
+Select * from VBAP	Get all the Sales order data from table VBAP
+Select * from LIKP	Get all deliveries from table LIKP
+Select * from VBRK	Get all invoices from table VBRK
+Select * from MARA	Get all material details from table MARA
+Select * from EKPO	Get all Purchasing Document Item from EKPO table
+Select * from MARC	Get all Plant Data for Material from MARC Table
+Select * from KNA1	Get all General Data in Customer Master from KNA1 Table
+select * from MAKT	Get all Material Descriptions from table MAKT
+Select * from EmployeeLeaves	Get all the leave details from EmployeeLeaves 
+Select * from EKKO	Get All the Purchase orders number from Table EKKO
+Select * from PA0001	Get all details from PA0001 Table
+Select * from VBAP	Get all the Sales order data from table VBAP
+Select * from LIKP	Get all deliveries from table LIKP
+Select * from VBRK	Get all invoices from table VBRK
+Select * from MARA	Get all material details from table MARA
+Select * from EKPO	Get all Purchasing Document Item from EKPO table
+Select * from MARC	Get all Plant Data for Material from MARC Table
+Select * from KNA1	Get all General Data in Customer Master from KNA1 Table
+select * from MAKT	Get all Material Descriptions from table MAKT
