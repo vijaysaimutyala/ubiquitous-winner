@@ -1,34 +1,35 @@
-Select * from employee	Get all the employee details from employee table
-Select * from EmployeeLeaves	Get all the leave details from EmployeeLeaves
-Select * from EKKO	Get All the Purchase orders number from Table EKKO
-Select * from PA0001	Get all details from PA0001 Table
-Select * from VBAP	Get all the Sales order data from table VBAP
-Select * from LIKP	Get all deliveries from table LIKP
-Select * from VBRK	Get all invoices from table VBRK
-Select * from MARA	Get all material details from table MARA
-Select * from EKPO	Get all Purchasing Document Item from EKPO table
-Select * from MARC	Get all Plant Data for Material from MARC Table
-Select * from KNA1	Get all General Data in Customer Master from KNA1 Table
-select * from MAKT	Get all Material Descriptions from table MAKT
-Select * from EmployeeLeaves	Get all the leave details from EmployeeLeaves 
-Select * from EKKO	Get All the Purchase orders number from Table EKKO
-Select * from PA0001	Get all details from PA0001 Table
-Select * from VBAP	Get all the Sales order data from table VBAP
-Select * from LIKP	Get all deliveries from table LIKP
-Select * from VBRK	Get all invoices from table VBRK
-Select * from MARA	Get all material details from table MARA
-Select * from EKPO	Get all Purchasing Document Item from EKPO table
-Select * from MARC	Get all Plant Data for Material from MARC Table
-Select * from KNA1	Get all General Data in Customer Master from KNA1 Table
-select * from MAKT	Get all Material Descriptions from table MAKT
-Select * from EmployeeLeaves	Get all the leave details from EmployeeLeaves 
-Select * from EKKO	Get All the Purchase orders number from Table EKKO
-Select * from PA0001	Get all details from PA0001 Table
-Select * from VBAP	Get all the Sales order data from table VBAP
-Select * from LIKP	Get all deliveries from table LIKP
-Select * from VBRK	Get all invoices from table VBRK
-Select * from MARA	Get all material details from table MARA
-Select * from EKPO	Get all Purchasing Document Item from EKPO table
-Select * from MARC	Get all Plant Data for Material from MARC Table
-Select * from KNA1	Get all General Data in Customer Master from KNA1 Table
-select * from MAKT	Get all Material Descriptions from table MAKT
+Select all from employee	Get all the employee details from employee table
+Select all from EmployeeLeaves	Get all the leave details from EmployeeLeaves
+Select all from EKKO	Get All the Purchase orders number from Table EKKO
+Select all from PA0001	Get all details from PA0001 Table
+Select all from VBAP	Get all the Sales order data from table VBAP
+Select all from LIKP	Get all deliveries from table LIKP
+Select all from VBRK	Get all invoices from table VBRK
+Select all from MARA	Get all material details from table MARA
+Select all from EKPO	Get all Purchasing Document Item from EKPO table
+Select all from MARC	Get all Plant Data for Material from MARC Table
+Select all from KNA1	Get all General Data in Customer Master from KNA1 Table
+select all from MAKT	Get all Material Descriptions from table MAKT
+select empid from employee	get empid from employee table
+select doj from employee	return doj from employee table
+select leavecount from employeeleaves	get leavecount from employeeleaves table
+select publicholidays from employeeleaves	get publicholidays from employeeleaves table
+select matnr from mara	fetch matnr from mara table
+select matdesc from makt	get matdesc from makt
+select invoiceno from VBRK	fetch invoiceno from VBRK
+select preqno from ekpo	fetch preqno from ekpo
+select plant from marc	fetch plant from marc
+select address from KNA1	Fetch address from KNA1
+select amount from ekko	select amount from ekko table
+select amount from pa0001	return amount from pa0001
+select pno from pa0001	return pno from pa0001
+select quantity from ekko	select quantity from ekko table
+select quantity from MAKT	select quantity from MAKT table
+select pincode from KNA1	Fetch pincode from KNA1
+select quantity from ekpo	fetch quantity from ekpo
+Select vbakno from VBAP	Get vbakno from table VBAP
+Select lkapno from LIKP	Get lkapno table LIKP
+Select vbakno from VBRK	Get vbakno from table VBRK
+select matdesc from mara	get matdesc from mara table
+Select plant from MARC	Get plant from MARC Table
+
